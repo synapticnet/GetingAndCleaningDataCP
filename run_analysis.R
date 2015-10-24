@@ -7,7 +7,7 @@
 #    of each variable for each activity and each subject.
 ##############################################################################################
 
-library(dplyr)
+require(dplyr)
 
 
 ##1. Merge training and test sets into one data set
