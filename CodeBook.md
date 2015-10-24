@@ -12,12 +12,12 @@ This study has 30 subjects represented by IDs 1-30, and 6 activities represented
 - subject = an INTEGER subject ID from the original data set from which it was derived
     
 - activity = a CHARACTER string derived by replacing the original data sets activity id with an appropriate descriptive label.  They are provided here next to their original IDs.
-    1. walking
-    2. walking_upstairs
-    3. walking_downstairs
-    4. sitting
-    5. standing
-    6. laying
+    - 1 = walking
+    - 2 = walking_upstairs
+    - 3 = walking_downstairs
+    - 4 = sitting
+    - 5 = standing
+    - 6 = laying
 
 
 ##All other features
